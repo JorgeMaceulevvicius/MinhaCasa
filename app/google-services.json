@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "370879074296",
+    "firebase_url": "https://casa-1cec4.firebaseio.com",
+    "project_id": "casa-1cec4",
+    "storage_bucket": "casa-1cec4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370879074296:android:cca0e677750be821cc500d",
+        "android_client_info": {
+          "package_name": "br.com.livroandroid.minhacasa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370879074296-8fuk8m8elo037dj7g8d0lr7oeugmr64t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.livroandroid.minhacasa",
+            "certificate_hash": "706eb002363a8db2e4493e30ddaedca19542ee75"
+          }
+        },
+        {
+          "client_id": "370879074296-cb25s30v984dl5l97pm8sfjbf80nevhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJR7L3F5V-TTFrQoSSqCu8bka16qJDOlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370879074296-cb25s30v984dl5l97pm8sfjbf80nevhn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
